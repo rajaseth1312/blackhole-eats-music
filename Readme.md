@@ -1,3 +1,4 @@
+![Tactical Zeroization Console Demo](assets/demo-screenshot.png)
 # Tactical C++ Zeroization Console
 ## The Core Problem & Philosophy
 

@@ -1,3 +1,6 @@
+**Dedicated to Major General [Director's Name], Director of [Institution/School Name],**  
+*In recognition of his distinguished leadership, continuous guidance, and inspiring commitment to excellence in technological innovation and student development.*
+
 ![Tactical Zeroization Console Demo](assets/demo-screenshot.png)
 # Tactical C++ Zeroization Console
 ## The Core Problem & Philosophy

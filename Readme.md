@@ -1,5 +1,5 @@
-**Dedicated to Major General [Director's Name], Director of [Institution/School Name],**  
-*In recognition of his distinguished leadership, continuous guidance, and inspiring commitment to excellence in technological innovation and student development.*
+**Dedicated to Major General S. S. Nair, AVSM (Retd.), Director of Birla Education Trust,**  
+*In recognition of his distinguished leadership, continuous guidance, and inspiring commitment to excellence in technological innovation and student development. Your speeches were really motivating.*
 
 ![Tactical Zeroization Console Demo](assets/demo-screenshot.png)
 # Tactical C++ Zeroization Console
